@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Lista dla Pythona ignorująca wielkość liter
 Name:		python-nocaselist
 # keep 1.x here for python2 support
 Version:	1.1.1
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nocaselist/
