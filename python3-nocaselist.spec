@@ -6,7 +6,7 @@
 
 Summary:	A case-insensitive list for Python
 Summary(pl.UTF-8):	Lista dla Pythona ignorująca wielkość liter
-Name:		python-nocaselist
+Name:		python3-nocaselist
 # keep 1.x here for python2 support
 Version:	1.1.1
 Release:	3
